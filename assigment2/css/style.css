@@ -17,7 +17,6 @@ h1 {
 }
 
 section {
-	position: relative;
 	border:	1px solid black;
 	background-color: gray;
 	margin: 10px
@@ -36,16 +35,16 @@ h2 {
     padding-top: 10px;
 }
 
-section.Chicken>h2 {
+.Chicken>h2 {
     background-color: #f08080;
 }
 
-section.Beef>h2 {
+.Beef>h2 {
 	color: white;
     background-color: #b22222;
 }
 
-section.Sushi>h2 {
+.Sushi>h2 {
     background-color: #eef05f;
 }
 p {
