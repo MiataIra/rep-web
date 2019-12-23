@@ -1,0 +1,86 @@
+body{
+	font-size: 16px;
+	color: #000000;
+	background-color: #ffffff;
+	font-family: Muli;
+
+}
+
+
+#header-nav {
+	background-color: #b9bbb6;
+	border-radius: 0;
+	border: 1;
+    
+    border-color: #000000;
+}
+
+.navbar-brand h1{
+    font-family: 'Muli', cursive;
+    color: #000000;
+    font-size: 1.5em;
+    font-weight: bolder;
+    line-height: 0.75;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.navbar-brand a:hover {
+    text-decoration: none;
+ }
+
+.navbar-collapse {
+    padding: : 0;
+}
+#collapsable-nav{
+	padding: 0;
+}
+#nav-list {
+    background-color: #d3d3d3;
+    margin: 0;
+    text-align: center;
+ }
+ 
+ .navbar-header button.navbar-toggle, .navbar-header .icon-bar{
+ 	border: 2px solid #d3d3d3;
+ }
+ #nav-list a {
+    color: #000000;
+    font-size: 1.2em;
+}
+
+.menu-item{
+	padding: 0;
+	margin: 0;
+	width: 100%;
+	border-bottom: 1px solid black;
+	color: black;
+	display: block;
+}
+
+#main-content {
+    width: 92%;
+    margin-bottom: 40px;
+}
+
+#main-content h2 {
+    font-size: 2.9em;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+#main-content h3 {
+    font-size: 1.6em;
+    font-weight: bold;
+    margin-bottom: 1em;
+}
+
+#main-section {
+    
+    background-color:#d9dddc;
+    padding: 30px;
+}
+
+
+
