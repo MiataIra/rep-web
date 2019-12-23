@@ -77,8 +77,11 @@ body{
 }
 
 #main-section {
-    background-color: #d9dddc;
+    
     
     padding: 30px;
 }
 
+#hoved-text {
+    background-color:#d9dddc; 
+}
